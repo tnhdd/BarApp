@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">BarApp</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="whiskey">Whiskey</string>
+    <string name="shot">Shot</string>
+    <string name="cocktail">Cocktail</string>
+    <string name="setting">Settings</string>
+    <string name="search">Search…</string>
+    <string name="select_language">Select Language</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="method">Method</string>
+
+    <string name="martini_i1">- 60ml Gin or Vodka</string>
+    <string name="martini_i2">- 1 tbsp dry vermouth</string>
+    <string name="martini_i3">- Olive or lemon peel, to garnish</string>
+    <string name="martini_m1">1. Stir the gin or vodka, dry vermouth and a little ice together or put them in a cocktail shaker to combine.</string>
+    <string name="martini_m2">2. Strain into a chilled martini glass. Serve with an olive on a cocktail stick or a twist of lemon peel.</string>
+
+    <string name="bloody_mary_i1">- 100ml vodka, 500ml tomato juice, ice</string>
+    <string name="bloody_mary_i2">- 1 tbsp lemon juice, pinch celery salt, pinch black pepper</string>
+    <string name="bloody_mary_i3">- Worcestershire sauce, Tabasco</string>
+    <string name="bloody_mary_m1">1. Place the ice in a large jug. Measure the vodka, tomato juice and lemon juice and pour it straight onto the ice.</string>
+    <string name="bloody_mary_m2">2. Add 3 shakes of Worcestershire sauce and Tabasco,and a pinch of celery salt and pepper. Stir until the outside of the jug feels cold, then strain the cocktail into 2 tall glasses.</string>
+    <string name="bloody_mary_m3">3. Top up with fresh ice, add a celery stick and lemon slice to both glasses and enjoy.</string>
+
+    <string name="margarita_i1">- 50ml tequila reposado</string>
+    <string name="margarita_i2">- 25ml lime juice, 20ml triple sec</string>
+    <string name="margarita_i3">- Salt, ice, lime wedges</string>
+    <string name="margarita_m1">1. Sprinkle a few teaspoons of salt over the surface of a small plate or saucer. Rub one wedge of lime along the rim of a tumbler and then dip it into the salt so that the entire rim is covered.</string>
+    <string name="margarita_m2">2. Fill a cocktail shaker with ice, then add the tequila, lime juice and triple sec. Shake until the outside of the shaker feels cold.</string>
+    <string name="margarita_m3">3. Strain the mix into the prepared glass over fresh ice. Serve with a wedge of lime.</string>
+
+    <string name="mojito_i1">- 60ml white rum, soda water, to taste</string>
+    <string name="mojito_i2">- Juice of 1 lime, 1 tsp granulated sugar</string>
+    <string name="mojito_i3">- Small handful mint leaves, plus extra sprig to serve</string>
+    <string name="mojito_m1">1. Muddle the lime juice, sugar and mint leaves in a small jug, crushing the mint as you go – you can use the end of a rolling pin for this.</string>
+    <string name="mojito_m2">2. Pour into a tall glass and add a handful of ice.</string>
+    <string name="mojito_m3">3. Pour over the rum, stirring with a long-handled spoon. Top up with soda water, garnish with mint and serve.</string>
+
+    <string name="ws_i1">- 50ml bourbon, 35ml lemon juice</string>
+    <string name="ws_i2">- Sugar syrup, egg, ice, lemon zest</string>
+    <string name="ws_i3">- Dashes Angostura bitters</string>
+    <string name="ws_m1">1. Shake all of the ingredients (except for the lemon zest) hard with ice and strain into an ice-filled rocks glass.</string>
+    <string name="ws_m2">2. Squeeze the lemon zest, shiny side down over the drink so the scented oils spray across the surface</string>
+    <string name="ws_m3">3. Discard the zest, add the garnish and serve</string>
+
+    <string name="wotr_i1">- 60ml whiskey</string>
+    <string name="wotr_i2">- Large ice cube</string>
+    <string name="wotr_i3">- Whiskey tumbler</string>
+    <string name="wotr_m1">1. Place the ice in the glass</string>
+    <string name="wotr_m2">2. Pour in 60 ml of whiskey</string>
+    <string name="wotr_m3">3. Wait a moment for the whiskey to interact with ice, then consume!</string>
+
+    <string name="b52_i1">- 10ml coffee liqueur</string>
+    <string name="b52_i2">- 10ml Baileys Irish cream liqueur</string>
+    <string name="b52_i3">- 10ml Gran Marnier liqueur </string>
+    <string name="b52_m1">1. Pour the coffee liqueur into a shot glass </string>
+    <string name="b52_m2">2. Slowly layer Baileys on top of the coffee liqueur</string>
+    <string name="b52_m3">3. Pour Gran Marnier on top of the Baileys </string>
+
+    <string name="tequila_i1">- 50ml tequila</string>
+    <string name="tequila_i2">- Pinch kosher salt, or sea salt</string>
+    <string name="tequila_i3">- Lime wedge, or lemon wedge</string>
+    <string name="tequila_m1">1. Moisten the back of your hand between thumb and index finger (usually by licking) and pour on a pinch of salt. </string>
+    <string name="tequila_m2">2. Lick salt off your hand. The salt lessens the burn of the tequila. </string>
+    <string name="tequila_m3">3. Immediately drink shot glass of tequila quickly and bite into and bite and suck on lime or lemon wedge. </string>
+
+    <string name="sambuca_i1">- 30ml Sambuca</string>
+    <string name="sambuca_i2">- Coffee bean</string>
+    <string name="sambuca_m1">1. Pour your Sambuca into a small, clear glass. Add three coffee bean</string>
+    <string name="sambuca_m2">2. Set the shot of Sambuca on fire to extract the coffee flavour</string>
+    <string name="sambuca_m3">3. Blow it our and enjoy</string>
+
+</resources>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical"
+            tools:ignore="UselessParent">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvCocktails"
+                android:layout_width="match_parent"
+                android:layout_height="135dp"
+                android:layout_margin="15dp"
+                app:cardBackgroundColor="@color/almost_white">
+
+                <TextView
+                    android:id="@+id/tvMartini"
+                    android:layout_width="wrap_content"
+                    android:layout_height="115dp"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:text="@string/cocktail"
+                    android:textSize="40sp"
+                    android:translationX="150dp"
+                    android:translationY="10dp"
+                    tools:ignore="HardcodedText" />
+
+                <ImageView
+                    android:id="@+id/ivMatini"
+                    android:layout_width="115dp"
+                    android:layout_height="115dp"
+                    android:src="@drawable/cocktail_color"
+                    android:translationX="10dp"
+                    android:translationY="10dp"
+                    tools:ignore="ContentDescription,ImageContrastCheck" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvWhiskey"
+                android:layout_width="match_parent"
+                android:layout_height="135dp"
+                android:layout_margin="15dp"
+                app:cardBackgroundColor="@color/almost_white">
+
+                <TextView
+                    android:id="@+id/tvWhiskey"
+                    android:layout_width="wrap_content"
+                    android:layout_height="115dp"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:text="@string/whiskey"
+                    android:textSize="40sp"
+                    android:translationX="150dp"
+                    android:translationY="10dp"
+                    tools:ignore="HardcodedText" />
+
+                <ImageView
+                    android:id="@+id/ivWhiskey"
+                    android:layout_width="115dp"
+                    android:layout_height="115dp"
+                    android:src="@drawable/whiskey_color"
+                    android:translationX="10dp"
+                    android:translationY="10dp"
+                    tools:ignore="ContentDescription,ImageContrastCheck" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvShot"
+                android:layout_width="match_parent"
+                android:layout_height="135dp"
+                android:layout_margin="15dp"
+                app:cardBackgroundColor="@color/almost_white">
+
+                <TextView
+                    android:id="@+id/tvShot"
+                    android:layout_width="wrap_content"
+                    android:layout_height="115dp"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:text="@string/shot"
+                    android:textSize="40sp"
+                    android:translationX="150dp"
+                    android:translationY="10dp"
+                    tools:ignore="HardcodedText" />
+
+                <ImageView
+                    android:id="@+id/ivShot"
+                    android:layout_width="115dp"
+                    android:layout_height="115dp"
+                    android:src="@drawable/shot_color"
+                    android:translationX="10dp"
+                    android:translationY="10dp"
+                    tools:ignore="ContentDescription,ImageContrastCheck" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvSetting"
+                android:layout_width="match_parent"
+                android:layout_height="135dp"
+                android:layout_margin="15dp"
+                app:cardBackgroundColor="@color/almost_white">
+
+                <TextView
+                    android:id="@+id/tvSetting"
+                    android:layout_width="wrap_content"
+                    android:layout_height="115dp"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:text="@string/setting"
+                    android:textSize="40sp"
+                    android:translationX="150dp"
+                    android:translationY="10dp"
+                    tools:ignore="HardcodedText" />
+
+                <ImageView
+                    android:id="@+id/ivSetting"
+                    android:layout_width="115dp"
+                    android:layout_height="115dp"
+                    android:src="@drawable/gear"
+                    android:translationX="10dp"
+                    android:translationY="10dp"
+                    tools:ignore="ContentDescription,ImageContrastCheck" />
+
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

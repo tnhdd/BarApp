@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:id="@+id/fragment_shot"
+    tools:context=".ShotFragment">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="UselessParent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        tools:ignore="UselessParent"
+        >
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            android:id="@+id/cv_shot_B52"
+            android:layout_margin="15dp"
+            app:cardBackgroundColor="@color/almost_white">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="115dp"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="B52"
+                android:textSize="40sp"
+                android:translationX="150dp"
+                android:translationY="10dp"
+                tools:ignore="HardcodedText" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="115dp"
+                android:layout_height="115dp"
+                android:src="@drawable/shot_b52"
+                android:translationX="10dp"
+                android:translationY="10dp"
+                tools:ignore="ContentDescription" />
+
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            android:id="@+id/cv_shot_Tequila"
+            android:layout_margin="15dp"
+            app:cardBackgroundColor="@color/almost_white"
+           >
+
+            <TextView
+                android:id="@+id/tv_shot_Tequila"
+                android:layout_width="wrap_content"
+                android:layout_height="115dp"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="Tequila"
+                android:textSize="40sp"
+                android:translationX="150dp"
+                android:translationY="10dp"
+                tools:ignore="HardcodedText" />
+
+            <ImageView
+                android:id="@+id/iv_Shot_Tequila"
+                android:layout_width="115dp"
+                android:layout_height="115dp"
+                android:src="@drawable/tequila_shot"
+                android:translationX="10dp"
+                android:translationY="10dp"
+                tools:ignore="ContentDescription" />
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            android:id="@+id/cv_shot_sambuca"
+            android:layout_margin="15dp"
+            app:cardBackgroundColor="@color/almost_white">
+
+            <TextView
+                android:id="@+id/tv_shot_Sambuca"
+                android:layout_width="wrap_content"
+                android:layout_height="115dp"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="Sambuca"
+                android:textSize="40sp"
+                android:translationX="150dp"
+                android:translationY="10dp"
+                tools:ignore="HardcodedText,TextSizeCheck" />
+
+            <ImageView
+                android:id="@+id/iv_shot_sambuca"
+                android:layout_width="115dp"
+                android:layout_height="115dp"
+                android:src="@drawable/shot_sambuca"
+                android:translationX="10dp"
+                android:translationY="10dp"
+                tools:ignore="ContentDescription" />
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</ScrollView>
+
+</FrameLayout>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BarApp</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Inicial</string>
+    <string name="whiskey">Whisky</string>
+    <string name="shot">Chupito</string>
+    <string name="cocktail">Cóctel</string>
+    <string name="setting">Ajustes</string>
+    <string name="search">Buscar…</string>
+    <string name="select_language">Elegir idioma</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="method">Método</string>
+
+    <string name="martini_i1">- 60ml de Ginebra o Vodka</string>
+    <string name="martini_i2">- 1 cucharada de vermut seco</string>
+    <string name="martini_i3">- Piel de aceituna o limón, para decorar</string>
+    <string name="martini_m1">1. Revuelve la ginebra o el vodka, el vermú seco y un poco de hielo o póngalos en una coctelera para combinarlos.</string>
+    <string name="martini_m2">2. Colar en una copa de martini fría. Servir con una aceituna en un palillo o un twist de piel de limón.</string>
+
+    <string name="bloody_mary_i1">- 100 ml de vodka, 500 ml de zumo de tomate y hielo</string>
+    <string name="bloody_mary_i2">- 1 cucharada de zumo de limón, una pizca de sal de apio y una pizca de pimienta negra</string>
+    <string name="bloody_mary_i3">- Salsa Worcestershire, Tabasco</string>
+    <string name="bloody_mary_m1">1. Coloque el hielo en una jarra grande. Mide el vodka, el zumo de tomate y el zumo de limón y viértelo directamente sobre el hielo.</string>
+    <string name="bloody_mary_m2">2. Agregue 3 batidos de salsa Worcestershire y Tabasco, y una pizca de sal y pimienta de apio. Revuelva hasta que el exterior de la jarra se sienta fría, luego cuele el cóctel en 2 vasos altos.</string>
+    <string name="bloody_mary_m3">3. Decora con hielo fresco, agregue una rama de apio y una rodaja de limón en ambos vasos.</string>
+
+    <string name="margarita_i1">- 50ml de tequila reposado</string>
+    <string name="margarita_i2">- 25ml de zumo de lima y 20ml triple sec</string>
+    <string name="margarita_i3">- Sal, hielo y rodajas de lima</string>
+    <string name="margarita_m1">1. Espolvorea unas cucharaditas de sal sobre la superficie de un plato pequeño o platillo. Frote una rodaja de lima a lo largo del borde de un vaso y luego sumérjala en la sal para que todo el borde quede cubierto.</string>
+    <string name="margarita_m2">2. Llene una coctelera con hielo, luego agregue el tequila, el zumo de lima y el triple sec. Agite hasta que el exterior de la coctelera se sienta fría.</string>
+    <string name="margarita_m3">3. Colar la mezcla en el vaso preparado sobre hielo fresco. Servir con una rodaja de lima.</string>
+
+    <string name="mojito_i1">- 60 ml de ron blanco y agua de soda</string>
+    <string name="mojito_i2">- Zumo de lima y 1 cucharadita de azúcar granulada</string>
+    <string name="mojito_i3">- Un puñado pequeño de hojas de menta, más una ramita extra para servir</string>
+    <string name="mojito_m1">1. Triture el zumo de lima, el azúcar y las hojas de menta en una jarra pequeña, triturando la menta a medida que avanza; puede usar el extremo de un rodillo para esto.</string>
+    <string name="mojito_m2">2. Verter en un vaso alto y añadir un puñado de hielo.</string>
+    <string name="mojito_m3">3. Vierta sobre el ron, revolviendo con una cuchara de mango largo. Rellenar con agua de soda, decorar con menta y servir.</string>
+
+    <string name="ws_i1">- 50 ml de bourbon y 35 ml de jugo de limón</string>
+    <string name="ws_i2">- Sirope de azúcar, huevo, hielo y ralladura de limón</string>
+    <string name="ws_i3">- Un chorro de Amargo de Angostura</string>
+    <string name="ws_m1">1. Agite todos los ingredientes (excepto la ralladura de limón) fuertemente con hielo y cuele en un vaso bajo lleno de hielo.</string>
+    <string name="ws_m2">2. Exprima la ralladura de limón con el lado brillante hacia abajo sobre la bebida para que los aceites perfumados se pulvericen por la superficie.</string>
+    <string name="ws_m3">3. Deseche la ralladura, agregue la guarnición y sirva.</string>
+
+    <string name="wotr_i1">- 60ml de Whiskey</string>
+    <string name="wotr_i2">- Cubo de hielo grande</string>
+    <string name="wotr_i3">- Vaso de Whiskey</string>
+    <string name="wotr_m1">1. Deja el hielo en el vaso.</string>
+    <string name="wotr_m2">2. Vierta 60 ml de Whiskey</string>
+    <string name="wotr_m3">3. ¡Espera un momento para que el Whiskey interactúe con el hielo y luego consúmelo!</string>
+
+    <string name="b52_i1">- 10ml de licor de café</string>
+    <string name="b52_i2">- 10ml de Licor de crema irlandesa Baileys</string>
+    <string name="b52_i3">- 10ml de Licor Gran Marnier </string>
+    <string name="b52_m1">1. Vierta el licor de café en un vaso de chupito. </string>
+    <string name="b52_m2">2. Coloque lentamente Baileys encima del licor de café.</string>
+    <string name="b52_m3">3. Vierta Grand Marnier encima del Baileys </string>
+
+    <string name="tequila_i1">- 50ml de tequila</string>
+    <string name="tequila_i2">- Una pizca de sal kosher o sal marina</string>
+    <string name="tequila_i3">- Rodaja de lima o rodaja de limón</string>
+    <string name="tequila_m1">1. Humedezca el dorso de su mano entre el pulgar y el índice (generalmente lamiendo) y vierta una pizca de sal. </string>
+    <string name="tequila_m2">2. Lame la sal de tu mano. La sal disminuye la quemadura del tequila.</string>
+    <string name="tequila_m3">3. Inmediatamente beba un vaso de tequila rápidamente y muerda y chupe una rodaja de lima o limón.</string>
+
+    <string name="sambuca_i1">- 30ml Sambuca</string>
+    <string name="sambuca_i2">- 3 Granos de café</string>
+    <string name="sambuca_m1">1. Vierta su Sambuca en un vaso pequeño y transparente. Añadir tres granos de café</string>
+    <string name="sambuca_m2">2. Prende fuego al chupito de Sambuca para extraer el sabor del café</string>
+    <string name="sambuca_m3">3. Explótalo y disfruta</string>
+</resources>

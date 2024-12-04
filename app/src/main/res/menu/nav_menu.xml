@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_drawer"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/nav_cocktails"
+            android:icon="@drawable/cocktail_bw"
+            android:title="@string/cocktail"/>
+        <item
+            android:id="@+id/nav_shot"
+            android:icon="@drawable/shot_drawer"
+            android:title="@string/shot"/>
+        <item
+            android:id="@+id/nav_whiskey"
+            android:icon="@drawable/whiskey_drawer"
+            android:title="@string/whiskey"/>
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/settings_drawer"
+            android:title="@string/setting"/>
+    </group>
+
+</menu>
